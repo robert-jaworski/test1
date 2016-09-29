@@ -1,1 +1,2 @@
-'tot lnØ free' 
+totÃ¡lnÄ› free
+a pro vÅ¡echny
