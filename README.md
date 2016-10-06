@@ -5,7 +5,7 @@ testovací update
 # Nadpis
 ## Podnadpis
 **Ahoj**
-*[google](google.com)"Google"*
+*[google](https:\\www.google.com)"Google"*
 '''html
 <html>
 <body/>
